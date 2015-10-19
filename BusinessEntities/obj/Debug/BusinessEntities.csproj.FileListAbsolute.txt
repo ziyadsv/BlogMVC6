@@ -1,0 +1,4 @@
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessEntities\obj\Debug\BusinessEntities.pdb

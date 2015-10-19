@@ -75,3 +75,11 @@ C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\obj\Debug\AngularCurtain.csprojResolveAssemblyReference.cache
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\obj\Debug\AngularCurtain.dll
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\obj\Debug\AngularCurtain.pdb
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\BusinessEntities.dll
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\BusinessServices.dll
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\DataModel.dll
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\AutoMapper.dll
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\BusinessEntities.pdb
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\BusinessServices.pdb
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\DataModel.pdb
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtain\bin\AutoMapper.xml
