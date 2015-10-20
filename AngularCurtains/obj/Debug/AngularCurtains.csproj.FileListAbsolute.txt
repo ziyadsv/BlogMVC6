@@ -80,6 +80,6 @@ C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\bin\System.Web.Http.Owin.xml
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\bin\DataModel.pdb
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\bin\AutoMapper.xml
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\obj\Debug\AngularCurtains.csprojResolveAssemblyReference.cache
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\obj\Debug\AngularCurtains.dll
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\obj\Debug\AngularCurtains.pdb
-C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\AngularCurtains\obj\Debug\AngularCurtains.csprojResolveAssemblyReference.cache

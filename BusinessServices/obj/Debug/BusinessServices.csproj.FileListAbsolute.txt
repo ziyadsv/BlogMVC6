@@ -1,4 +1,3 @@
-C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\bin\Debug\BusinessServices.dll
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\bin\Debug\BusinessServices.pdb
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\bin\Debug\AutoMapper.dll
@@ -9,5 +8,6 @@ C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\bin\Debug\DataModel.pdb
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\bin\Debug\AutoMapper.xml
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\bin\Debug\EntityFramework.xml
+C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\obj\Debug\BusinessServices.dll
 C:\Users\shetty-rami\Documents\Visual Studio 2015\Projects\Ziyad\AngularCurtain\BusinessServices\obj\Debug\BusinessServices.pdb
